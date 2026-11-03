@@ -1,9 +1,10 @@
 # Dynamic Reference Points, Strategic Gambles, and Cognitive Fatigue in High-Frequency Contests: Field Evidence from Online Chess
 
-**Target Journal:** *Journal of Economic Behavior & Organization* (JEBO)  
-**Author Fee (APC):** **$0.00** (Traditional Subscription Track)  
+**Author:** Atanas Bobev  
+**Affiliation:** American University in Bulgaria  
+**Series:** Working Paper Series (November 2026)  
+**DOI:** [10.5281/zenodo.23921614](https://doi.org/10.5281/zenodo.23921614)  
 **JEL Codes:** D91, C93, D81, J22  
-**Preprint Categories for Immediate Google Scholar Indexing:** SSRN (Economics Research Network) & arXiv (`econ.GN`, `cs.GT`)  
 
 ---
 

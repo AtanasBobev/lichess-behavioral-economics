@@ -3,8 +3,8 @@
 This repository contains the replication code, high-throughput streaming pipeline, econometric estimation scripts, and working paper manuscript for the empirical study on reference-dependent preferences, contest theory, and cognitive fatigue in online chess.
 
 * **Working Paper:** [paper/Dynamic_Reference_Points_Chess_Economics.pdf](paper/Dynamic_Reference_Points_Chess_Economics.pdf)
+* **Author:** Atanas Bobev (American University in Bulgaria)
 * **Permanent DOI:** [10.5281/zenodo.23921614](https://doi.org/10.5281/zenodo.23921614)
-* **Target Journal:** *Journal of Economic Behavior & Organization* (JEBO)
 * **JEL Classification:** D91, C93, D81, J22
 
 ---
