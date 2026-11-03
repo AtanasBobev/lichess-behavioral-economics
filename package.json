@@ -1,0 +1,27 @@
+{
+  "name": "lichess-behavioral-economics",
+  "version": "1.0.0",
+  "description": "High-throughput TypeScript pipeline and econometric estimation code for analyzing reference-dependent preferences, contest theory, and cognitive fatigue in online chess.",
+  "main": "dist/stream-pipeline.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/stream-pipeline.js",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "behavioral-economics",
+    "contest-theory",
+    "reference-dependent-preferences",
+    "loss-aversion",
+    "econometrics",
+    "chess",
+    "lichess",
+    "typescript"
+  ],
+  "author": "Atanas Bobev",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "typescript": "^5.9.3"
+  }
+}
