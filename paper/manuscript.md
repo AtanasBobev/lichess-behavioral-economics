@@ -2,7 +2,7 @@
 
 **Author:** Atanas Bobev  
 **Affiliation:** American University in Bulgaria  
-**Series:** Working Paper Series (November 2026)  
+**Date:** November 2026  
 **DOI:** [10.5281/zenodo.23921614](https://doi.org/10.5281/zenodo.23921614)  
 **JEL Codes:** D91, C93, D81, J22  
 
